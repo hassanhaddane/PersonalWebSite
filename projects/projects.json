@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Projet Symfony",
+    "desc": "Exercice",
+    "image": "symfony",
+    "category": "web",
+    "links": {
+      "view": "https://www.linkedin.com/in/hassanhdn/",
+      "code": "https://github.com/hassanhaddane/Projet-Symfony"
+    }
+  },
+
+  {
+    "name": "pizzeria Mobile Application",
+    "desc": "Exercice",
+    "image": "android",
+    "category": "android",
+    "links": {
+      "view": "https://www.linkedin.com/in/hassanhdn/",
+      "code": "https://github.com/hassanhaddane/Pizzeria_Mobile_Application/"
+    }
+  }
+
+]
