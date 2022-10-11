@@ -241,8 +241,8 @@ header .navbar ul li a:hover {
 .home .image img {
     width: 70%;
     margin-left: 6rem;
-    border-radius: 50%;
-    box-shadow: 0 0 25px 5px #64ffda;
+    border-radius: 100%;
+    /* box-shadow: 0 0 25px 5px #64ffda; */
     cursor: pointer;
 }
 
